@@ -1,0 +1,7 @@
+interfata userRepository
+ArraryList<User> find all
+user login (id, password);
+ArrayList<user> find UserType(UserType usertype)
+
+
+interfata de tipul
